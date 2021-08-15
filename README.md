@@ -1,5 +1,7 @@
 # satsuma
-the race for productivity :)
+the race to productivity :)
+
+Satsuma is a Chrome Extension aiming to help students and people in the workplace with productivity (and motivation) by making it more fun to complete assigned tasks.
 
 ## to use:
 1. click the green `code` button on github
