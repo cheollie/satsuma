@@ -1,26 +1,25 @@
 {
     "manifest_version": 2,
-    "name": "MODORA",
-    "description": "MODORA blocks distracting sites according to the Pomodoro Technique which is proven to increase productivity while preventing overworking and encouraging breaks.",
+    "name": "satsuma",
+    "description": "satsuma is a chrome extension that helps people get things done in a fun way :D",
     "version": "1.2",
     "icons": {
-        "64": "./images/64.png"
+        "64": "./64.png"
     }, 
 
     "background": {
-        "scripts": ["timer.js", "block_sites.js", "cookie_functions.js", "background.js"]
+        "scripts": []
     },
 
     "browser_action": { 
     "default_popup": "popup.html",
-    "default_title": "MODORA"
+    "default_title": "satsuma"
     },
     "permissions": [
         "tabs",
         "alarms", 
         "cookies", 
         "debugger", 
-        "webRequestBlocking", 
         "notifications", 
         "tts",
 
