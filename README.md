@@ -13,10 +13,10 @@ Satsuma is a Chrome Extension aiming to help students and people in the workplac
 ## disclaimer: 
 this is a really rough mockup, full design and plan can be found [here](https://www.figma.com/file/mADfKZ9dWvVoM6CKku7TR0/satsuma-final?node-id=0%3A1).
 
-also this was made on qoom (source code also on qoom but will migrate here), this repo was just to make it a chrome extension
+also this was made on qoom ([source code also on qoom](https://stiffstars2.qoom.space/~/Satsuma) but will migrate here), this repo was just to make it a chrome extension
 
 ## for [Superposition Toronto's Superpositron hackathon](https://the-superpositron.devpost.com/):
-made with Fatma J. and Annie W.
+made with Fatma J. and Annie W. [edit: got best web app :poggies:]
 
 ## links
 - devpost: https://devpost.com/software/satsuma
